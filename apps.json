@@ -1,0 +1,45 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2024-06-09T00:00:00.000-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        { "PackageIdentifier": "SweetScape.010Editor" },
+        { "PackageIdentifier": "MHNexus.HxD" },
+        { "PackageIdentifier": "Cloudflare.WARP" },
+        { "PackageIdentifier": "DBBrowserForSQLite.DBBrowserForSQLite" },
+        { "PackageIdentifier": "Discord.Discord" },
+        { "PackageIdentifier": "Git.Git" },
+        { "PackageIdentifier": "Atlassian.Sourcetree" },
+        { "PackageIdentifier": "voidtools.Everything" },
+        { "PackageIdentifier": "Docker.DockerDesktop" },
+        { "PackageIdentifier": "GoLang.Go" },
+        { "PackageIdentifier": "Google.Chrome" },
+        { "PackageIdentifier": "Tonec.InternetDownloadManager" },
+        { "PackageIdentifier": "Microsoft.DotNet.Runtime.8" },
+        { "PackageIdentifier": "Microsoft.DotNet.SDK.8" },
+        { "PackageIdentifier": "SublimeHQ.SublimeText.4" },
+        { "PackageIdentifier": "Notepad++.Notepad++" },
+        { "PackageIdentifier": "OpenVPNTechnologies.OpenVPN" },
+        { "PackageIdentifier": "PuTTY.PuTTY" },
+        { "PackageIdentifier": "JetBrains.PyCharm.Community" },
+        { "PackageIdentifier": "Python.Python.3.8" },
+        { "PackageIdentifier": "xanderfrangos.twinkletray" },
+        { "PackageIdentifier": "VideoLAN.VLC" },
+        { "PackageIdentifier": "Microsoft.WinDbg" },
+        { "PackageIdentifier": "RARLab.WinRAR" },
+        { "PackageIdentifier": "WinSCP.WinSCP.RC" },
+        { "PackageIdentifier": "WiresharkFoundation.Wireshark" },
+        { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+        { "PackageIdentifier": "Microsoft.VisualStudio.2022.Community" }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.1.12663"
+}
